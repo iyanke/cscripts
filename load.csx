@@ -1,2 +1,2 @@
 #load "foreach.csx"
-Console.WriteLine("foreach.scx" is loaded")
+Console.WriteLine("foreach.scx is loaded")
